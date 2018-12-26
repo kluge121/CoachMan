@@ -25,7 +25,7 @@
 
 #연말 계획 및 12월 31일에 하고 싶은 것
 
----?image=assets/img/stormtroopers.jpg
+---?image=assets/img/20171118-006.jpg
 
 ### No apologies needed.
 ### Just Markdown Image Magic.
