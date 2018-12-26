@@ -4,3 +4,8 @@
 ---
 # 슬라이드 2
 그럼 이만...
+
+---?image=assets/img/stormtroopers.jpg
+
+### No apologies needed.
+### Just Markdown Image Magic.
