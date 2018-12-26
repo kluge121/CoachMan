@@ -25,7 +25,9 @@
 
 #연말 계획 및 12월 31일에 하고 싶은 것
 
----?image=assets/img/20171118-006.jpg
+---
+![20171118-006](https://user-images.githubusercontent.com/26531461/50431887-7eebfe00-0911-11e9-9eed-114f46b04746.jpg)
+
 
 ### No apologies needed.
 ### Just Markdown Image Magic.
