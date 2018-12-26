@@ -6,6 +6,7 @@
 그럼 이만...
 
 
+
 #오늘 할일
 
 #팀원들의 이름과 별명, 성격
@@ -14,3 +15,7 @@
 
 #연말 계획 및 12월 31일에 하고 싶은 것
 
+---?image=assets/img/stormtroopers.jpg
+
+### No apologies needed.
+### Just Markdown Image Magic.
