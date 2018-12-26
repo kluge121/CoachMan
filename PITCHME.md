@@ -5,7 +5,7 @@
 # 슬라이드 2
 그럼 이만...
 
----?image=assets/img/stormtroopers.jpg
+---?image=assets/img/20171118-006.jpg
 
 ### No apologies needed.
 ### Just Markdown Image Magic.
